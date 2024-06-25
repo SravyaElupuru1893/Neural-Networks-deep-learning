@@ -1,7 +1,7 @@
 # Neural-Networks-deep-learning
 **ICP_1.ipynb**:
-     **Program1**:Input the string “Python” as a list of characters from console, delete at least 2 characters, reverse the
+     **Program1**:Giving “Python” as a list of characters from console as input , delete the 2 characters, reverse the
                   resultant string and print it.
-                  – Take two numbers from user and perform at least 4 arithmetic operations on them
-    **Program2** : Program that accepts a sentence and replace each occurrence of ‘python’ with ‘pythons’.
-    **Program 3** :print the letter grade based on an input classscore. Use the grading scheme we are using in this class.
+                  – Giving two numbers as input and performing arithmeticoperations(addition,substraction,multiplication,divison)
+    **Program2** : accepts a sentenceas input  and replace each occurrence of ‘python’ with ‘pythons’.
+    **Program 3** :Displaying letter grade based on an input classscore.
