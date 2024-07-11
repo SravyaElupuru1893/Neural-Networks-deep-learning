@@ -14,8 +14,12 @@
                     print the output.
     **Program 3** : program reads heights (inches.) of customers into a list and convert these heights to centimeters in a 
                     separate list using Nested Interactive loop and List comprehensions.
-**Recording fo ICP2**  
+**Recording for ICP2**  
 https://drive.google.com/file/d/19N458q1lBAa-gI3eKak13HhkjxB7oAqC/view?usp=sharing
+
+**Recording for ICP3**
+https://drive.google.com/file/d/1ESD94ndHT3D6PoB7f2YHZYSf9gNUTklm/view?usp=drive_link
+
 
 
 
