@@ -27,6 +27,9 @@ https://drive.google.com/file/d/1u2G2Z0RVXI5jeJSzF0FMfmEQFXA-iNhU/view?usp=drive
 **Recording for ICP5**
 https://drive.google.com/file/d/1HSaatqZF5lQ-dYU3Ghxk2Joa3RctPBlU/view?usp=sharing
 
+**Recording for ICP6**
+https://drive.google.com/file/d/1jzBWeNk6z5o9sh-F49ZvbEqBothyT8nn/view?usp=drive_link
+
 
 
 
